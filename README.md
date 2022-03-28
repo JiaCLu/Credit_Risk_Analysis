@@ -51,3 +51,6 @@ Compare two ensemble algorithms to determine which algorithm results in the best
 ![EasyEnsembleClassifier](https://github.com/bobocomfy/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost.png)
 
 ## Summary:
+Through the performance of these supervised machine learning models above, Easy Ensemble AdaBoost Classifier algorithm has the highest balance accuracy score with 91.55%, and the highest recall score with 90%. There are high-risk precision is very low, and low-risk precision is almost 100% for all the six models. 
+
+To the bank, identify the high-risk is crucial to make the credit decision. The highest percentage recall score measure the actual credit high-risk that were correctly classified. Therefore, Easy Ensemble AdaBoost Classifier has the best performance to predict the high credit risk profile.
